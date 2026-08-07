@@ -5,9 +5,14 @@
 - 🇨🇳 简体中文（当前）
 - 🇺🇸 [English](README.md)
 
-正文横线是一款 KOReader 阅读插件，为流式文档中当前可见的文字行绘制可调节横线，不修改书籍内容，也不改变正文排版。
 
-## 功能
+正文横线（Full Text Underline）是一款 KOReader 阅读插件。
+
+它可以在流式文档中为当前可见文字行绘制可调节横线，不修改书籍内容，也不会改变正文排版。
+
+
+
+# 功能
 
 - 单实线
 - 单虚线
@@ -19,21 +24,42 @@
 - 线条粗细调节
 - 标题横线开关
 - 当前书独立设置
-- 供新书使用的插件默认设置
+- 插件默认设置
 - KOReader 阅读配置（Profile）集成
 - 简体中文和英文界面
 
-## 截图
 
-预留以下截图位置：
+
+# 截图
+
+
+## 线条样式
 
 | 实线 | 虚线 | 点线 |
 |---|---|---|
-| `screenshots/solid.png` | `screenshots/dashed.png` | `screenshots/dotted.png` |
+| ![实线](screenshots/实线.png) | ![虚线](screenshots/虚线.png) | ![点线](screenshots/点线.png) |
 
-截图规格和建议页面见 [screenshots/README.md](screenshots/README.md)。
 
-## 兼容性
+## 文字跟随模式
+
+![文字跟随](screenshots/文字跟随.png)
+
+
+## 界面
+
+英文界面：
+
+![English UI](screenshots/英文.png)
+
+
+中文界面：
+
+![中文 UI](screenshots/中文.png)
+
+
+
+# 兼容性
+
 
 已测试平台：
 
@@ -41,13 +67,20 @@
 - Kobo
 - Android KOReader
 
-版本要求：
 
-- 推荐：KOReader v2025.xx 或更新版本
+版本：
+
+- 推荐：KOReader v2026.07.1 
 - 已测试：KOReader v2026.07.1
-- 较旧的 2024.x 版本可能不具备插件需要的 ReaderView API。
 
-插件面向 EPUB 等由 CRengine 排版的流式文档，不适用于 PDF 等固定版式文档。
+
+较旧的 KOReader 版本可能不具备插件所需的 ReaderView 功能，因此可能无法显示横线。
+
+
+插件面向 EPUB 等由 CRengine 排版的流式文档。
+
+不适用于 PDF 等固定版式文档。
+
 
 ## 安装
 
