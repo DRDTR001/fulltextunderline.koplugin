@@ -1,0 +1,5 @@
+dist/
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db

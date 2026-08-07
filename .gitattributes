@@ -1,0 +1,6 @@
+* text=auto eol=lf
+*.lua text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.po text eol=lf
+*.mo binary
