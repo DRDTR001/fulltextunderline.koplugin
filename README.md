@@ -29,7 +29,8 @@ Screenshots will be added at the following locations:
 
 | Solid | Dashed | Dotted |
 |---|---|---|
-| <img width="2560" height="1258" alt="image" src="https://github.com/user-attachments/assets/aca76d28-9965-4be6-ab50-7efa43d7be1c" />
+| <img width="1072" height="1448" alt="Reader_【精排】我有一座冒险屋 (我会修空调) (z-library sk, 1lib sk, z-lib sk) epub_p6274_2026-08-07_024009" src="https://github.com/user-attachments/assets/2cc13c5d-bf58-4f35-824c-c2ab6341314a" />
+
  | <img width="1072" height="1448" alt="Reader_【精排】我有一座冒险屋 (我会修空调) (z-library sk, 1lib sk, z-lib sk) epub_p6274_2026-08-07_024022" src="https://github.com/user-attachments/assets/29aa5986-a2e1-4923-9ea9-0278b4b1dfbf" />
  | <img width="1072" height="1448" alt="Reader_【精排】我有一座冒险屋 (我会修空调) (z-library sk, 1lib sk, z-lib sk) epub_p6274_2026-08-07_024039" src="https://github.com/user-attachments/assets/25879199-81c1-46bc-81d2-3ae45312e9c3" />
  |
