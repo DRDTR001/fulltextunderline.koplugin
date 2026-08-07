@@ -11,7 +11,7 @@ Full Text Underline is a KOReader plugin that draws configurable reading lines b
 
 - Solid lines
 - Dashed lines
-- Dotted lines
+- Dotted lines（dotted lines are best visible at thickness level 2 or above)
 - Full-width mode
 - Text-width mode
 - Adjustable underline position
