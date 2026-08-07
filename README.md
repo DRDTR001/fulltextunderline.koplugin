@@ -23,21 +23,35 @@ Full Text Underline is a KOReader plugin that draws configurable reading lines b
 - KOReader Reading Profile integration
 - English and Simplified Chinese interface
 
-## Screenshots
 
-Screenshots will be added at the following locations:
+# Screenshots
+
+## Underline Styles
 
 | Solid | Dashed | Dotted |
 |---|---|---|
-| <img width="1072" height="1448" alt="Reader_【精排】我有一座冒险屋 (我会修空调) (z-library sk, 1lib sk, z-lib sk) epub_p6274_2026-08-07_024009" src="https://github.com/user-attachments/assets/2cc13c5d-bf58-4f35-824c-c2ab6341314a" />
+| ![Solid](screenshots/实线.png) | ![Dashed](screenshots/虚线.png) | ![Dotted](screenshots/点线.png) |
 
- | <img width="1072" height="1448" alt="Reader_【精排】我有一座冒险屋 (我会修空调) (z-library sk, 1lib sk, z-lib sk) epub_p6274_2026-08-07_024022" src="https://github.com/user-attachments/assets/29aa5986-a2e1-4923-9ea9-0278b4b1dfbf" />
- | <img width="1072" height="1448" alt="Reader_【精排】我有一座冒险屋 (我会修空调) (z-library sk, 1lib sk, z-lib sk) epub_p6274_2026-08-07_024039" src="https://github.com/user-attachments/assets/25879199-81c1-46bc-81d2-3ae45312e9c3" />
- |
 
-See [screenshots/README.md](screenshots/README.md) for the capture checklist.
+## Text-width Mode
 
-## Compatibility
+![Text-width Mode](screenshots/文字跟随.png)
+
+
+## Interface
+
+English interface:
+
+![English Interface](screenshots/英文.png)
+
+
+Chinese interface:
+
+![Chinese Interface](screenshots/中文.png)
+
+
+
+# Compatibility
 
 Tested on:
 
@@ -45,18 +59,25 @@ Tested on:
 - Kobo
 - Android KOReader
 
+
 Versions:
 
-- Recommended: KOReader v2025.xx or later
+- Recommended: KOReader v2026.07.1 or later
 - Tested: KOReader v2026.07.1
-- Older 2024.x versions may not support the required ReaderView APIs.
 
-The plugin is intended for reflowable CRengine documents such as EPUB. It is not intended for PDF or other fixed-layout documents.
 
-## Installation
+The plugin is intended for reflowable CRengine documents such as EPUB.
+
+It is not intended for PDF or other fixed-layout documents.
+
+
+
+# Installation
 
 1. Download `fulltextunderline-v1.0.0.zip` from the GitHub Releases page.
+
 2. Extract the archive.
+
 3. Copy the resulting `fulltextunderline.koplugin` directory to:
 
    ```text
