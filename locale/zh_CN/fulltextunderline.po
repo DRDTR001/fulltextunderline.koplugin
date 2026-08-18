@@ -1,0 +1,200 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Full Text Underline 1.1.0\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgctxt "FullTextUnderline"
+msgid "Full Text Underline"
+msgstr "正文横线"
+
+msgctxt "FullTextUnderline"
+msgid "Draw configurable reading lines under visible text in reflowable documents."
+msgstr "为流式文档中的可见文字绘制可调节的阅读横线。"
+
+msgctxt "FullTextUnderline"
+msgid "Enable"
+msgstr "启用"
+
+msgctxt "FullTextUnderline"
+msgid "On"
+msgstr "开启"
+
+msgctxt "FullTextUnderline"
+msgid "Off"
+msgstr "关闭"
+
+msgctxt "FullTextUnderline"
+msgid "Line Style"
+msgstr "线条样式"
+
+msgctxt "FullTextUnderline"
+msgid "Solid"
+msgstr "实线"
+
+msgctxt "FullTextUnderline"
+msgid "Dashed"
+msgstr "虚线"
+
+msgctxt "FullTextUnderline"
+msgid "Dotted"
+msgstr "点线"
+
+msgctxt "FullTextUnderline"
+msgid "Wavy"
+msgstr "波浪线"
+
+msgctxt "FullTextUnderline"
+msgid "Double Solid"
+msgstr "双实线"
+
+msgctxt "FullTextUnderline"
+msgid "Double Dashed"
+msgstr "双虚线"
+
+msgctxt "FullTextUnderline"
+msgid "Underline Mode"
+msgstr "横线模式"
+
+msgctxt "FullTextUnderline"
+msgid "Full-width Lines"
+msgstr "整行横线"
+
+msgctxt "FullTextUnderline"
+msgid "Text-width Lines"
+msgstr "文字横线"
+
+msgctxt "FullTextUnderline"
+msgid "Underline Position: %1"
+msgstr "横线位置：%1"
+
+msgctxt "FullTextUnderline"
+msgid "Underline Length: %1"
+msgstr "横线长度：%1"
+
+msgctxt "FullTextUnderline"
+msgid "Line Thickness: %1"
+msgstr "线条粗细：%1"
+
+msgctxt "FullTextUnderline"
+msgid "Line Darkness: %1"
+msgstr "线条深浅：%1"
+
+msgctxt "FullTextUnderline"
+msgid "Underline Headings"
+msgstr "标题横线"
+
+msgctxt "FullTextUnderline"
+msgid "More Settings"
+msgstr "更多设置"
+
+msgctxt "FullTextUnderline"
+msgid "Set Current Settings as Default"
+msgstr "将当前设置设为默认"
+
+msgctxt "FullTextUnderline"
+msgid "Reset This Book to Default"
+msgstr "当前书恢复默认设置"
+
+msgctxt "FullTextUnderline"
+msgid "Restore Built-in Defaults"
+msgstr "恢复插件内置默认值"
+
+msgctxt "FullTextUnderline"
+msgid "Current Book Settings"
+msgstr "当前书设置"
+
+msgctxt "FullTextUnderline"
+msgid "Plugin Defaults"
+msgstr "插件默认设置"
+
+msgctxt "FullTextUnderline"
+msgid "Reading Profile"
+msgstr "阅读配置"
+
+msgctxt "FullTextUnderline"
+msgid "Settings saved as default"
+msgstr "设置已保存为默认"
+
+msgctxt "FullTextUnderline"
+msgid "This book has been reset to default settings"
+msgstr "已恢复当前书默认设置"
+
+msgctxt "FullTextUnderline"
+msgid "Built-in defaults restored"
+msgstr "已恢复插件内置默认值"
+
+msgctxt "FullTextUnderline"
+msgid "Reset to Default"
+msgstr "恢复默认"
+
+msgctxt "FullTextUnderline"
+msgid "Cancel"
+msgstr "取消"
+
+msgctxt "FullTextUnderline"
+msgid "OK"
+msgstr "确定"
+
+msgctxt "FullTextUnderline"
+msgid "Full Text Underline: Enable"
+msgstr "正文横线：启用"
+
+msgctxt "FullTextUnderline"
+msgid "Full Text Underline: Line Style"
+msgstr "正文横线：线条样式"
+
+msgctxt "FullTextUnderline"
+msgid "Full Text Underline: Underline Mode"
+msgstr "正文横线：横线模式"
+
+msgctxt "FullTextUnderline"
+msgid "Full Text Underline: Underline Length"
+msgstr "正文横线：横线长度"
+
+msgctxt "FullTextUnderline"
+msgid "Full Text Underline: Underline Position"
+msgstr "正文横线：横线位置"
+
+msgctxt "FullTextUnderline"
+msgid "Full Text Underline: Line Thickness"
+msgstr "正文横线：线条粗细"
+
+msgctxt "FullTextUnderline"
+msgid "Full Text Underline: Line Darkness"
+msgstr "正文横线：线条深浅"
+
+msgctxt "FullTextUnderline"
+msgid "Full Text Underline: Underline Headings"
+msgstr "正文横线：标题横线"
+
+msgctxt "FullTextUnderline"
+msgid "Current underline settings saved as the default for new books."
+msgstr "当前正文横线设置已保存为新书默认设置。"
+
+msgctxt "FullTextUnderline"
+msgid "This book has been reset to the plugin defaults."
+msgstr "当前书已恢复插件全局默认设置。"
+
+msgctxt "FullTextUnderline"
+msgid "This book has been reset to the built-in defaults."
+msgstr "当前书已恢复插件内置默认设置。"
+
+msgctxt "FullTextUnderline"
+msgid "Plugin defaults cleared. New books will use the built-in defaults."
+msgstr "插件全局默认设置已清除；新书将使用内置默认值。"
+
+msgctxt "FullTextUnderline"
+msgid "The current settings have been saved as the default for new books."
+msgstr "当前设置已保存为新书默认设置。"
+
+msgctxt "FullTextUnderline"
+msgid "This book has its own settings and will not be overridden by the plugin defaults."
+msgstr "当前书已有独立设置，不会被插件默认值覆盖。"
+
+msgctxt "FullTextUnderline"
+msgid "Older KOReader versions may not display the lines correctly. Please update KOReader."
+msgstr "较旧版本的 KOReader 可能无法正确显示横线，请升级 KOReader。"
